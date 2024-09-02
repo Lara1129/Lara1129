@@ -1,5 +1,5 @@
-## Seja bem vindo ao meu perfil##
-aluna do alura start☆
-aprendendo Java script★
+## Seja bem vindo ao meu perfil
 
-![](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp) 
+aluna do alura start☆
+
+![](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp)
